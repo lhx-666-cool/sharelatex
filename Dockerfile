@@ -20,9 +20,6 @@ RUN apt-get update && \
         fonts-noto-cjk-extra \
         fonts-noto-color-emoji \
         fonts-noto-mono \
-        # Adobe 开源字体
-        fonts-adobe-source-han-sans-cn \
-        fonts-adobe-source-han-serif-cn \
         # 方正、文鼎等开源中文字体
         fonts-arphic-ukai \
         fonts-arphic-uming \
